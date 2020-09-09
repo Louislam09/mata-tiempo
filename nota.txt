@@ -1,0 +1,52 @@
+Países:
+1. Francia 🤪
+2. Brasil
+3. Colombia
+4. Panamá
+5. México
+6. Argentina
+7. Chile
+8. España 
+9. Uruguay 
+10. Canadá
+
+
+
+Partes del cuerpo:
+1. Brazo
+2. Pie
+3. Piernas
+4. Nariz
+5. Ojo
+6. Oreja
+7. Boca
+8. Barriga
+9. Pelo 
+10. Cara
+
+
+Muebles o cosas de casa:
+1. Mesa
+2. Silla
+3. Cama
+4. Armario
+5. Sofá
+6. Mesilla
+7. TV
+8. Mueble
+9. Nevera
+10. Lavabo
+
+Vegetales:
+1. brócoli 
+2. Zanahoria
+3. Tomate
+4. Pimiento
+5. Coliflor
+6. Calabacín 
+7. Berenjena
+8. Calabaza
+9. Puerro
+10. Nabo
+
+
